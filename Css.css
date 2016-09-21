@@ -1,0 +1,45 @@
+body{
+	margin: 0;
+	padding: 0;
+	background: url(wikipedia.png) no-repeat;
+	background-attachment: fixed;
+	-webkit-background-size: cover;
+	font-family: cursive;
+}
+/*cneter the header section*/
+.header{
+	text-align: center;
+	margin-top: 100px;
+}
+
+/*style the text in the header*/
+#text1, #text{
+	background-color: white;
+	display: inline-block;
+	padding: 8px;
+	box-shadow: 5px 4px 12px #999999;
+	border: solid 2px #999999;
+	border-bottom-right-radius: 15px;
+}
+/*style the body position..ect*/
+.body{
+	margin: 100px 100px auto 100px;
+}
+#submit{
+	display: block;
+	width: 100%;
+	border-radius: 4px;
+	height: 30px;
+}
+#submit:hover{
+	margin:3px;
+	transition: all 1s;
+	color: 
+}
+.btn{
+	margin:6px;
+	background-color: #8CAEED;
+}/*
+.btn:hover{
+	background-color: #F5B4B4;
+}*/
