@@ -1,4 +1,4 @@
-
+Coded By Hasan_Sh
 $(document).ready(function(){
 	$("#getArticle").submit(function(event){
 		event.preventDefault();
